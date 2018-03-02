@@ -1,0 +1,8 @@
+.hidden-download, .hidden-contact{
+	position: absolute;
+    /*padding: 10px;
+    left: 50%;
+    top: 85px;*/
+    z-index: 22;
+    cursor: auto;
+}
